@@ -2,7 +2,7 @@
 
 A personal portfolio website for **Vikas Sharma**, Senior .NET Developer & System Analyst with 17+ years of experience. Built with a minimalist, terminal-inspired aesthetic.
 
-🔗 **Live site:** [vikassharma.dev](https://vikassharma.dev) *(update with your actual URL)*
+🔗 **Live site:** [vikassharma.abacusai.app](https://vikassharma.abacusai.app)
 
 ---
 
